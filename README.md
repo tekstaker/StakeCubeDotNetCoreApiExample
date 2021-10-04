@@ -10,3 +10,5 @@ Discord: https://discord.gg/agPcjnhw
 Get your API Keys here: https://stakecube.net/app/profile/api-keys
 
 The tests are working as of 20211004
+
+Program.cs is the start point.
